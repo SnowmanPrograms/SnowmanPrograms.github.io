@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      /**
+       * Simple language detection and redirection for static hosting.
+       */
+      (function() {
+        var locales = ["en", "zh"];
+        var defaultLocale = "en";
+        
+        // Get browser language (e.g., "en-US" -> "en")
+        var browserLang = (navigator.language || navigator.userLanguage).split("-")[0].toLowerCase();
+        
+        // Check if browser language is supported, otherwise use default
+        var targetLocale = locales.indexOf(browserLang) !== -1 ? browserLang : defaultLocale;
+        
+        // Redirect to the language folder
+        window.location.replace("./" + targetLocale + "/");
+      })();
+    </script>
+    <!-- Fallback for browsers with JS disabled: default to English -->
+    <meta http-equiv="refresh" content="0; url=./en/" />
+  </head>
+  <body>
+    <p>Redirecting... If you are not redirected, <a href="./en/">click here</a>.</p>
+  </body>
+</html>
