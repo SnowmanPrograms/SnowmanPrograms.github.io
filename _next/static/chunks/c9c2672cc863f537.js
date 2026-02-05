@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,84980,t=>{"use strict";var n=t.i(43476);function o({code:t,components:o={}}){let e=Function(t)({...n}).default;return(0,n.jsx)(e,{components:o})}t.s(["MDXContent",()=>o])}]);
