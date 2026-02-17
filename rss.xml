@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Premium Blog</title>
+    <description>Bilingual posts from SnowmanPrograms</description>
+    <link>https://snowmanprograms.github.io/</link>
+    <atom:link href="https://snowmanprograms.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>My Journey in Programming</title>
+      <link>https://snowmanprograms.github.io/en/blog/life/reading/programming-journey/</link>
+      <guid>en:my-programming-journey</guid>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+      <description>From liberal arts graduate to programmer, documenting my four-year career transition journey.</description>
+      <category>career</category><category>programming</category><category>learning</category><category>story</category>
+    </item>
+    <item>
+      <title>我的编程学习之路</title>
+      <link>https://snowmanprograms.github.io/zh/blog/life/reading/programming-journey/</link>
+      <guid>zh:my-programming-journey</guid>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+      <description>从文科生到程序员，记录我转行编程的四年成长历程。</description>
+      <category>career</category><category>programming</category><category>learning</category><category>story</category>
+    </item>
+    <item>
+      <title>Frontend Performance Optimization in Practice</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/react/frontend-performance/</link>
+      <guid>en:frontend-performance-optimization</guid>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+      <description>From loading to rendering, comprehensive performance optimization strategies for web applications.</description>
+      <category>performance</category><category>frontend</category><category>optimization</category><category>web</category>
+    </item>
+    <item>
+      <title>前端性能优化实战</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/react/frontend-performance/</link>
+      <guid>zh:frontend-performance-optimization</guid>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+      <description>从加载到渲染，全面优化Web应用性能的实战经验分享。</description>
+      <category>performance</category><category>frontend</category><category>optimization</category><category>web</category>
+    </item>
+    <item>
+      <title>2024 Tech Book Recommendations</title>
+      <link>https://snowmanprograms.github.io/en/blog/life/reading/2024-tech-books/</link>
+      <guid>en:2024-tech-books</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <description>Curated list of 10 must-read tech books in 2024, covering frontend, backend, AI, and architecture.</description>
+      <category>reading</category><category>books</category><category>tech</category><category>recommendation</category>
+    </item>
+    <item>
+      <title>2024年度技术书单推荐</title>
+      <link>https://snowmanprograms.github.io/zh/blog/life/reading/2024-tech-books/</link>
+      <guid>zh:2024-tech-books</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <description>精选2024年最值得阅读的10本技术书籍，涵盖前后端、AI、架构等领域。</description>
+      <category>reading</category><category>books</category><category>tech</category><category>recommendation</category>
+    </item>
+    <item>
+      <title>Book Review: Computer Systems - A Programmer&apos;s Perspective</title>
+      <link>https://snowmanprograms.github.io/en/blog/life/reading/csapp-book-review/</link>
+      <guid>en:computer-systems-book-review</guid>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
+      <description>CSAPP reading notes, comprehensive review of computer system knowledge and insights.</description>
+      <category>reading</category><category>cs</category><category>bookreview</category><category>learning</category>
+    </item>
+    <item>
+      <title>《深入理解计算机系统》读后感</title>
+      <link>https://snowmanprograms.github.io/zh/blog/life/reading/csapp-book-review/</link>
+      <guid>zh:computer-systems-book-review</guid>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
+      <description>CSAPP读书笔记，计算机系统知识的全面梳理和心得分享。</description>
+      <category>reading</category><category>cs</category><category>bookreview</category><category>learning</category>
+    </item>
+    <item>
+      <title>Hidden Gems in China Travel Guide</title>
+      <link>https://snowmanprograms.github.io/en/blog/life/travel/domestic-hidden-gems/</link>
+      <guid>en:domestic-hidden-gems</guid>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Escape the crowds and explore China&apos;s most beautiful hidden travel destinations.</description>
+      <category>travel</category><category>china</category><category>nature</category><category>recommendation</category>
+    </item>
+    <item>
+      <title>国内小众旅行地推荐</title>
+      <link>https://snowmanprograms.github.io/zh/blog/life/travel/domestic-hidden-gems/</link>
+      <guid>zh:domestic-hidden-gems</guid>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+      <description>避开人潮，探索中国最美的小众旅行目的地。</description>
+      <category>travel</category><category>china</category><category>nature</category><category>recommendation</category>
+    </item>
+    <item>
+      <title>Japan Travel Diary: Kyoto</title>
+      <link>https://snowmanprograms.github.io/en/blog/life/travel/kyoto-travel/</link>
+      <guid>en:kyoto-travel-diary</guid>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <description>7-day Kyoto travel guide, from temples to cuisine, experience the ancient capital&apos;s charm.</description>
+      <category>travel</category><category>japan</category><category>kyoto</category><category>culture</category>
+    </item>
+    <item>
+      <title>日本旅行日记：京都篇</title>
+      <link>https://snowmanprograms.github.io/zh/blog/life/travel/kyoto-travel/</link>
+      <guid>zh:kyoto-travel-diary</guid>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <description>京都7日游详细攻略，从神社到美食，带你深度体验古都魅力。</description>
+      <category>travel</category><category>japan</category><category>kyoto</category><category>culture</category>
+    </item>
+    <item>
+      <title>Deep Learning Getting Started Guide</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/ai/deep-learning-intro/</link>
+      <guid>en:deep-learning-intro</guid>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Deep learning fundamentals, neural network architectures, and popular frameworks introduction.</description>
+      <category>dl</category><category>ai</category><category>neural-networks</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>深度学习入门指南</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/ai/deep-learning-intro/</link>
+      <guid>zh:deep-learning-intro</guid>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+      <description>深度学习基础知识，神经网络架构和常用框架介绍。</description>
+      <category>dl</category><category>ai</category><category>neural-networks</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>Machine Learning Fundamentals</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/ai/ml-fundamentals/</link>
+      <guid>en:ml-fundamentals</guid>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Introduction to machine learning, covering supervised, unsupervised, and reinforcement learning concepts.</description>
+      <category>ml</category><category>ai</category><category>datascience</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>机器学习基础概念</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/ai/ml-fundamentals/</link>
+      <guid>zh:ml-fundamentals</guid>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+      <description>机器学习入门指南，介绍监督学习、无监督学习和强化学习的基本概念。</description>
+      <category>ml</category><category>ai</category><category>datascience</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>Programming in the Age of AI</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/ai/ai-programming-revolution/</link>
+      <guid>en:ai-programming-revolution</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <description>Exploring how AI is transforming software development and how programmers should adapt.</description>
+      <category>ai</category><category>programming</category><category>future</category><category>career</category>
+    </item>
+    <item>
+      <title>AI 时代的编程变革</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/ai/ai-programming-revolution/</link>
+      <guid>zh:ai-programming-revolution</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <description>探讨人工智能如何改变软件开发行业，以及程序员应该如何适应这种变化。</description>
+      <category>ai</category><category>programming</category><category>future</category><category>career</category>
+    </item>
+    <item>
+      <title>Advanced TypeScript Types in Practice</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/react/typescript-advanced/</link>
+      <guid>en:typescript-advanced-types</guid>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+      <description>Deep exploration of TypeScript advanced type system, including generics, conditional types, and mapped types.</description>
+      <category>typescript</category><category>javascript</category><category>frontend</category>
+    </item>
+    <item>
+      <title>TypeScript 高级类型实战</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/react/typescript-advanced/</link>
+      <guid>zh:typescript-advanced-types</guid>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+      <description>深入探索TypeScript的高级类型系统，包括泛型、条件类型、映射类型等。</description>
+      <category>typescript</category><category>javascript</category><category>frontend</category>
+    </item>
+    <item>
+      <title>Understanding Next.js App Router</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/react/nextjs-app-router/</link>
+      <guid>en:nextjs-app-router-guide</guid>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+      <description>Deep dive into Next.js 13+ App Router architecture, mastering server components and routing.</description>
+      <category>nextjs</category><category>react</category><category>ssr</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>Next.js App Router 详解</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/react/nextjs-app-router/</link>
+      <guid>zh:nextjs-app-router-guide</guid>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+      <description>深入理解Next.js 13+的App Router架构，掌握服务端组件和路由处理。</description>
+      <category>nextjs</category><category>react</category><category>ssr</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>Getting Started with React Hooks</title>
+      <link>https://snowmanprograms.github.io/en/blog/tech/react/react-hooks-intro/</link>
+      <guid>en:react-hooks-intro</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+      <description>Learn React Hooks from scratch, master useState, useEffect and other core hooks.</description>
+      <category>react</category><category>hooks</category><category>frontend</category><category>tutorial</category>
+    </item>
+    <item>
+      <title>React Hooks 入门指南</title>
+      <link>https://snowmanprograms.github.io/zh/blog/tech/react/react-hooks-intro/</link>
+      <guid>zh:react-hooks-intro</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+      <description>从零开始学习React Hooks，掌握useState、useEffect等核心Hook的使用方法。</description>
+      <category>react</category><category>hooks</category><category>frontend</category><category>tutorial</category>
+    </item>
+  </channel>
+</rss>

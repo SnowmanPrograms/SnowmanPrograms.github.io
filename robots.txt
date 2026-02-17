@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://snowmanprograms.github.io
+Sitemap: https://snowmanprograms.github.io/sitemap.xml
